@@ -29,10 +29,10 @@ const App = () => {
       <div className="wrap">
         <nav className="nav">
           <a href="#allTodos" className="nav__tab nav__tab--active">
-            <img src="/images/list.png" className="nav__img" alt="list-logo"/>
+            <img src="https://zhenya-mezhueva.github.io/react-todo-list/images/list.png" className="nav__img" alt="list-logo"/>
           </a>
           <a href="#completedTodos" className="nav__tab">
-          <img src="/images/complete.png" className="nav__img" alt="list-logo"/>
+          <img src="https://zhenya-mezhueva.github.io/react-todo-list/images/complete.png" className="nav__img" alt="list-logo"/>
         </a>
         </nav>
         <ul className="todo-list">
